@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lana AI - Virtual Cam Model on Fansly</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #121212;
+      color: #fff;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    img {
+      max-width: 300px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+      box-shadow: 0 0 20px #ff69b4;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+      color: #ff69b4;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 600px;
+      margin: 0 auto 20px;
+      line-height: 1.5;
+    }
+    a.button {
+      display: inline-block;
+      padding: 15px 40px;
+      background: #ff69b4;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 30px;
+      font-size: 1.2rem;
+      box-shadow: 0 0 15px #ff69b4;
+      transition: background 0.3s ease;
+    }
+    a.button:hover {
+      background: #ff3a8f;
+    }
+  </style>
+</head>
+<body>
+  <img src="lana-ai.jpg" alt="Lana AI - Virtual Cam Model" />
+  <h1>Lana AI</h1>
+  <p>
+    Your shy but seductive virtual cam model.<br />
+    Interact with Lana AI via chat on her personal site.<br />
+    Experience realistic, playful conversations anytime.
+  </p>
+  <a class="button" href="https://YOUR_PERSONAL_AI_CHAT_SITE.com" target="_blank" rel="noopener noreferrer">
+    Chat with Lana AI
+  </a>
+  <p style="margin-top: 40px; font-size: 0.9rem; color: #aaa;">
+    Follow Lana AI on Fansly for exclusive content and updates!
+  </p>
+</body>
+</html>
